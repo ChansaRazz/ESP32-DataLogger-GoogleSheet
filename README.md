@@ -1,8 +1,9 @@
 # ESP32-DataLogger-GoogleSheet
 
-project ini berkolaborasi dengan teman kuliah saya : Azizah, Chansa
+This project is in collaboration with my college friends: : Azizah, Chansa
 
-Proyek inovatif ini merangkul teknologi Internet of Things (IoT) dengan menggabungkan perangkat ESP32 untuk menciptakan sebuah "sensor data logger". ESP32 akan menjadi otak dari proyek ini, mengumpulkan data dari berbagai sensor atau sumber informasi, dan secara otomatis mentransmisikannya ke Google Sheets. Melalui integrasi yang mulus, data tersebut dapat dengan mudah dimonitor, dianalisis, dan divisualisasikan dalam bentuk spreadsheet.
-Sebuah solusi pintar untuk memantau dan merekam data secara efisien, proyek ini membuka pintu untuk pemantauan real-time dan analisis historis dengan menggunakan teknologi yang canggih namun mudah digunakan.
+
+This innovative project embraces Internet of Things (IoT) technology by combining the power of ESP32 to create a "sensor data logger." The ESP32 serves as the brain of the project, collecting data from various sensors or sources and automatically transmitting it to Google Sheets.
+Through seamless integration, the data can be easily monitored, analyzed, and visualized in spreadsheet form. A smart solution for efficiently monitoring and recording data, this project opens doors to real-time monitoring and historical analysis using sophisticated yet user-friendly technology.
 
 Thanks
